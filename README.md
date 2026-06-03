@@ -11,7 +11,4 @@ Repo ini isinya hasil kerjaan tugas kuliah gw, mayoritas fokus ke struktur data 
 
 ## 🚀 Cara Pake
 
-Pastikan *environment* Python lu udah siap. Tinggal *clone* repo ini, buka terminal, terus jalanin scriptnya:
-
-```bash
-test.py
+Isi dalam file hanya berbentuk back-end, jadi kallian hanya perlu untuk mengcopynya dan paste di vscode atau sejenisnya yang berbasis python
